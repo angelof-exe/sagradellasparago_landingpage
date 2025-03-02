@@ -1,1 +1,7 @@
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.font-lobster {
+  font-family: "Lobster", cursive;
+  font-weight: 900;
+}
