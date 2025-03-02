@@ -99,7 +99,7 @@ export default function HeroSection() {
         <div className="mx-auto max-w-7xl py-32 sm:py-48 lg:py-56">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
             <div className="text-center lg:text-center">
-              <h1 className="text-sm font-semibold tracking-tight text-gray-900 sm:text-7xl">
+              <h1 className="text-2xl font-semibold tracking-tight text-gray-900 sm:text-7xl">
                 Sagra dell' <br />
                 <span className="text-green-800 font-lobster">
                   Asparago Selvatico
